@@ -1,10 +1,10 @@
-=== WP Leads ===
+=== WP Landing Pages ===
 Contributors: hozyali
 Donate link: http://www.etechy101.com/wp-leads-wordpress-plugin/
 Tags: wp leads, wordpress lead pages, wordpress leads, wordpress landing pages, create landing pages in wordpress, wordpress landing page plugin, wp landing page
 Requires at least: 3.0.1
-Tested up to: 3.9
-Stable tag: 1.0
+Tested up to: 3.9.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,7 +17,7 @@ Few very good options to create landing pages in your wordpress website. The fro
 Features
 ------------
 
-* Add landing page
+* Add unlimited landing pages
 * Up to 5 templates to choose from
 * Auto responder integration
 * Customize all text, wordings as per your needs
@@ -42,7 +42,7 @@ For support and feedback, please [click here](http://www.etechy101.com/wp-leads-
 
 == Installation ==
 
-1. Upload `wpleads` to the `/wp-content/plugins/` directory
+1. Upload `wp-landing-pages` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. You should see a Properties tab on left panel
 
@@ -58,6 +58,10 @@ Go to Settings > Reading > Under Front page displays (top section), select A sta
 1. will add soon
 
 == Changelog ==
+
+= 1.1 =
+* Path bug fixed
+* Text Domain fixed
 
 = 1.0 =
 * Current version is a basic one
