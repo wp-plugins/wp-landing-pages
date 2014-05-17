@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WP Landing Pages
+Plugin Name: WP Leads
 Plugin URI: http://www.etechy101.com/wp-leads-wordpress-plugin
 Description: Create lead pages instantly. Integrate with any auto responder with just a few clicks.
 Author: HozyAli
