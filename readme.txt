@@ -1,4 +1,4 @@
-=== WP Leads ===
+=== WP Landing Pages ===
 Contributors: hozyali
 Donate link: http://www.etechy101.com/wp-leads-wordpress-plugin/
 Tags: wp leads, wordpress lead pages, wordpress leads, wordpress landing pages, create landing pages in wordpress, wordpress landing page plugin, wp landing page

@@ -4,7 +4,7 @@ Plugin Name: WP Leads
 Plugin URI: http://www.etechy101.com/wp-leads-wordpress-plugin
 Description: Create lead pages instantly. Integrate with any auto responder with just a few clicks.
 Author: HozyAli
-Version: 1.0
+Version: 1.1
 Author URI: https://plus.google.com/u/0/+HuzaifaAli/posts
 Text Domain: wplp
 Domain Path: /languages
