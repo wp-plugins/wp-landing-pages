@@ -1,14 +1,14 @@
 === WP Landing Pages ===
 Contributors: hozyali
-Donate link: http://www.etechy101.com/wp-leads-wordpress-plugin/
+Donate link: http://www.etechy101.com/wp-landing-pages-plugin/
 Tags: wp leads, wordpress lead pages, wordpress leads, wordpress landing pages, create landing pages in wordpress, wordpress landing page plugin, wp landing page
 Requires at least: 3.0.1
 Tested up to: 3.9.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Important: Currently this plugin is a very basic version. Please do not expect a lot of features immediately. I will need your feedback and suggestions to improve the plugin
+Create beautiful landing pages in your WordPress website. Try it, and feel free to send your feedback for improvements.
 
 == Description ==
 
@@ -17,7 +17,7 @@ Few very good options to create landing pages in your wordpress website. The fro
 Features
 ------------
 
-* Add unlimited landing pages
+* Add landing page
 * Up to 5 templates to choose from
 * Auto responder integration
 * Customize all text, wordings as per your needs
@@ -29,16 +29,16 @@ Features
 QUICK TUTORIAL
 ------------------------------
 
-* To create new landing page, go to WP Leads > Templates. Click Use this template button under any template you like.
+* To create new landing page, go to WP Landing Pages > Templates. Click Use this template button under any template you like.
 * It will open the template in new window. On your left side, enter page name first and submit. This will save the page in your Wordpress site. You can then customize the page
-* If you wish to edit an existing created template/page. Go to your WP-Admin > Pages. Click on the page title which you created from WP Leads. and then click the Edit Template Button above the editor box
+* If you wish to edit an existing created template/page. Go to your WP-Admin > Pages. Click on the page title which you created from WP Landing Pages. and then click the Edit Template Button above the editor box
 
 If facing 404 not found errors
 ------------------------------
 
 * If you do all the settings correctly and still see 404 page not found errors, please go to your wp-admin > settings > permalinks and simply press the save button. It will reset your permalinks and make the plugins links active. Pressing the save button does not need to change the actual permalinks configuration.
 
-For support and feedback, please [click here](http://www.etechy101.com/wp-leads-wordpress-plugin/ "wp leads wordpress plugin").
+For support and feedback, please [click here](http://www.etechy101.com/wp-landing-pages-plugin/ "wp landing pages plugin").
 
 == Installation ==
 
@@ -59,9 +59,12 @@ Go to Settings > Reading > Under Front page displays (top section), select A sta
 
 == Changelog ==
 
+= 1.2 =
+* Added rich text editor
+* Will be adding more features soon
+
 = 1.1 =
-* Path bug fixed
-* Text Domain fixed
+* Fixed a few minor paths.
 
 = 1.0 =
 * Current version is a basic one
@@ -85,7 +88,7 @@ plugins where more information needs to be conveyed that doesn't fit into the ca
 * built in inquiry form
 * many more features to come soon
 
-For support and feedback, please [click here](http://www.etechy101.com/wp-leads-wordpress-plugin/ "wp leads wordpress plugin").
+For support and feedback, please [click here](http://www.etechy101.com/wp-landing-pages-plugin "wp landing pages plugin").
 Titles are optional, naturally.
 
 
